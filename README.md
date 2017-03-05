@@ -1,2 +1,4 @@
 # linux_basic
-linux 基础
+
+
+- linux 基础知识积累
